@@ -11,4 +11,4 @@
 
 #### Hecho por SrMany para Minecraft 1.20.1
 
-#### Recopilación de todos los mods de la página de [https://modrinth.com/mods](Modrinth)
+#### Recopilación de todos los mods de la página de [Modrinth]([Modrinth](https://modrinth.com/mods))
